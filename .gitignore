@@ -1,6 +1,9 @@
 # config.py to protect api keys
 config.py
 
+# all CSVs
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
